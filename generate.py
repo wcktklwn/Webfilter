@@ -5,5 +5,6 @@ adguardallow = open('Lists/AdGuard/allowlist.txt', 'w')
 allowlines = []
 
 for allow in allowlist:
-    allowlines.append("@@||%s^" % (allow))
-    print(allowlines)
+    allowlines.append("@@||%s^\n" % (allow))
+
+print(allowlines)
