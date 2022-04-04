@@ -8,8 +8,10 @@
 @@||denhax.net^$important
 @@||denhax.org^$important
 @@||denvermesh.net^$important
+@@||h4x0.red^$important
 @@||k0rap.com^$important
 @@||pickett.haus^$important
+@@||pickett.ws^$important
 @@||wcktklwn.com^$important
 @@||wcktklwn.info^$important
 @@||wcktklwn.net^$important
