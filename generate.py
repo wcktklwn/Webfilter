@@ -1,6 +1,6 @@
 def func_allowlist():
     with open('Lists/RAW/allowlist.txt', 'r') as f:
-    allowlist = f.read().splitlines()
+        allowlist = f.read().splitlines()
 
     adguardallow = open('Lists/AdGuard/allowlist.txt', 'w')
     allowlines = []
