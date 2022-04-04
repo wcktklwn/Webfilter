@@ -3,15 +3,15 @@
 ! Description: URL's that need to be set to personal for websites to work
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
-@@||denhax.com^
-@@||denhax.net^
-@@||denhax.org^
-@@||denvermesh.net^
-@@||h4x0.red^
-@@||k0rap.com^
-@@||pickett.haus^
-@@||pickett.ws^
-@@||wcktklwn.com^
-@@||wcktklwn.info^
-@@||wcktklwn.net^
-@@||wcktklwn.org^
+||denhax.com^
+||denhax.net^
+||denhax.org^
+||denvermesh.net^
+||h4x0.red^
+||k0rap.com^
+||pickett.haus^
+||pickett.ws^
+||wcktklwn.com^
+||wcktklwn.info^
+||wcktklwn.net^
+||wcktklwn.org^

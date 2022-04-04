@@ -24,7 +24,7 @@ def func_personallist():
     adguardpersonal = open('Lists/AdGuard/personallist.txt', 'w')
     personallines = ["!\n","! Title: WcktKlwn's personal Overrides\n","! Description: URL's that need to be set to personal for websites to work\n","! Homepage: https://github.com/wcktklwn/Webfilter\n","\n"]
     for personal in personallist:
-        personallines.append("@@||%s^\n" % (personal))
+        personallines.append("||%s^\n" % (personal))
     adguardpersonal.writelines(personallines)
     adguardpersonal.close()
 
