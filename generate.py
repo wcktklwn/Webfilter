@@ -1,4 +1,4 @@
-def func-allowlist():
+def func_allowlist():
     with open('Lists/RAW/allowlist.txt', 'r') as f:
     allowlist = f.read().splitlines()
 
@@ -11,4 +11,4 @@ def func-allowlist():
     adguardallow.close()
 
 
-func-allowlist()
+func_allowlist()
