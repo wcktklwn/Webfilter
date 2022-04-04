@@ -1,5 +1,5 @@
 !
-! Title: WcktKlwn's Personal Domains
+! Title: WcktKlwn's and Friend's Personal Domains
 ! Description: Personal Domains to add to the Allow List
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
