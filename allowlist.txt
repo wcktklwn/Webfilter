@@ -3,7 +3,19 @@
 ! Description: URL's that need to be set to allow for websites to work
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
+! Personal Domains
+@@||denhax.com^$important
+@@||denhax.net^$important
+@@||denhax.org^$important
+@@||denvermesh.net^$important
+@@||k0rap.com^$important
+@@||pickett.haus^$important
+@@||wcktklwn.com^$important
+@@||wcktklwn.info^$important
+@@||wcktklwn.net^$important
+@@||wcktklwn.org^$important
 
+! Other Allows
 @@||dell.com^$important
 @@||dell.demdex.net^$important
 @@||ccbill.com^$important
