@@ -1,0 +1,17 @@
+b.3c.com
+backblazeb2.com
+ccbill.com
+cdn.shopify.com
+centurylink.com
+dell.com
+dell.demdex.net
+dellcdn.com
+fbl.validity.com
+grafana.org
+improvmx.com
+irc.hak5.org
+lumen.com
+plex.direct
+plex.tv
+siteforce.com
+splunk.com
