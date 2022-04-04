@@ -1,4 +1,5 @@
 !
-! Title: WcktKlwn's Allow Overrides
-! Description: URL's that need to be set to allow for websites to work
+! Title: WcktKlwn's block Overrides
+! Description: URL's that need to be set to block for websites to work
 ! Homepage: https://github.com/wcktklwn/Webfilter
+
