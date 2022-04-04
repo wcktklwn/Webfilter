@@ -4,15 +4,15 @@
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
 ! Personal Domains
-@@||denhax.com^$important
-@@||denhax.net^$important
-@@||denhax.org^$important
-@@||denvermesh.net^$important
-@@||h4x0.red^$important
-@@||k0rap.com^$important
-@@||pickett.haus^$important
-@@||pickett.ws^$important
-@@||wcktklwn.com^$important
-@@||wcktklwn.info^$important
-@@||wcktklwn.net^$important
-@@||wcktklwn.org^$important
+@@||denhax.com^
+@@||denhax.net^
+@@||denhax.org^
+@@||denvermesh.net^
+@@||h4x0.red^
+@@||k0rap.com^
+@@||pickett.haus^
+@@||pickett.ws^
+@@||wcktklwn.com^
+@@||wcktklwn.info^
+@@||wcktklwn.net^
+@@||wcktklwn.org^
