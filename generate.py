@@ -1,4 +1,4 @@
-with open(Lists/RAW/allowlist.txt) as f:
+with open('Lists/RAW/allowlist.txt') as f:
     allow = f.read().splitlines() 
 
 
