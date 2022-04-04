@@ -1,1 +1,2 @@
-f = open("allowlist.txt", 'r') print(f.readlines())
+f = open("allowlist.txt", 'r')
+print(f.readlines())
