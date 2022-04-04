@@ -1,0 +1,18 @@
+!
+! Title: WcktKlwn's and Friend's Personal Domains
+! Description: Personal Domains to add to the Allow List
+! Homepage: https://github.com/wcktklwn/Webfilter
+
+! Personal Domains
+@@||denhax.com^
+@@||denhax.net^
+@@||denhax.org^
+@@||denvermesh.net^
+@@||h4x0.red^
+@@||k0rap.com^
+@@||pickett.haus^
+@@||pickett.ws^
+@@||wcktklwn.com^
+@@||wcktklwn.info^
+@@||wcktklwn.net^
+@@||wcktklwn.org^
