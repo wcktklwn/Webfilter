@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
 @@||b.3c.com^
-@@||backblazeb2.com^important
+@@||backblazeb2.com^
 @@||ccbill.com^
 @@||cdn.shopify.com^
 @@||centurylink.com^
