@@ -1,0 +1,23 @@
+!
+! Title: WcktKlwn's Allow Overrides
+! Description: URL's that need to be set to allow for websites to work
+! Homepage: https://github.com/wcktklwn/Webfilter
+
+
+@@||dell.com^$important
+@@||dell.demdex.net^$important
+@@||ccbill.com^$important
+@@||backblazeb2.com^important
+@@||cdn.shopify.com^$important
+@@||b.3c.com^$important
+@@||irc.hak5.org^$important
+@@||plex.tv^$important
+@@||plex.direct^$important
+@@||improvmx.com^$important
+@@||centurylink.com^$important
+@@||fbl.validity.com^$important
+@@||siteforce.com^$important
+@@||dellcdn.com^$important
+@@||lumen.com^$important
+@@||grafana.org^$important
+@@||splunk.com^$important
