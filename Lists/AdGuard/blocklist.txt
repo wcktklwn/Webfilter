@@ -3,4 +3,3 @@
 ! Description: URL's that need to be set to block for websites to work
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
-||youtube.com^
