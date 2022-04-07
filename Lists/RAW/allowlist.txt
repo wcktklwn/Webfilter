@@ -15,3 +15,4 @@ plex.direct
 plex.tv
 siteforce.com
 splunk.com
+sealserver.trustwave.com
