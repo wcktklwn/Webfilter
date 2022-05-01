@@ -1,11 +1,15 @@
 b.3c.com
 backblazeb2.com
+bitwarden.com
 ccbill.com
 cdn.shopify.com
 centurylink.com
+cloudatcost.com
 dell.com
 dell.demdex.net
 dellcdn.com
+doi.gov
+doi.net
 fbl.validity.com
 grafana.org
 improvmx.com
@@ -16,5 +20,3 @@ plex.tv
 siteforce.com
 splunk.com
 trustwave.com
-cloudatcost.com
-bitwarden.com
