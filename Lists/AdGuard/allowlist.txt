@@ -10,6 +10,7 @@
 @@||cdn.shopify.com^
 @@||centurylink.com^
 @@||cloudatcost.com^
+@@||dediseedbox.com^
 @@||dell.com^
 @@||dell.demdex.net^
 @@||dellcdn.com^
