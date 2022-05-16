@@ -21,4 +21,3 @@ plex.tv
 siteforce.com
 splunk.com
 trustwave.com
-vegascreativesoftware.com
