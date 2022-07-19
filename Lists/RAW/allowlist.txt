@@ -6,9 +6,9 @@ cdn.shopify.com
 centurylink.com
 cloudatcost.com
 dediseedbox.com
+dellcdn.com
 dell.com
 dell.demdex.net
-dellcdn.com
 doi.gov
 doi.net
 fbl.validity.com
@@ -16,10 +16,11 @@ grafana.org
 improvmx.com
 irc.hak5.org
 lumen.com
+marvel-processor.bc0a.com
+platform-api.sharethis.com
 plex.direct
 plex.tv
+primaryarms.com
 siteforce.com
 splunk.com
 trustwave.com
-primaryarms.com
-marvel-processor.bc0a.com
