@@ -26,6 +26,7 @@
 @@||plex.direct^
 @@||plex.tv^
 @@||primaryarms.com^
+@@||shop.qrp-labs.com^
 @@||siteforce.com^
 @@||splunk.com^
 @@||trustwave.com^
