@@ -17,6 +17,7 @@ improvmx.com
 irc.hak5.org
 lumen.com
 marvel-processor.bc0a.com
+mparticle.weather.com
 platform-api.sharethis.com
 plex.direct
 plex.tv
