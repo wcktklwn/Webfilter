@@ -15,6 +15,7 @@
 @@||hamradio.services^
 @@||hamradio.systems^
 @@||k0rap.com^
+@@||k0rap.radio^
 @@||parkermesh.net^
 @@||pickett.haus^
 @@||pickett.ws^

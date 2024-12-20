@@ -1,5 +1,6 @@
 b.3c.com
 backblazeb2.com
+bestbuy.com
 bitwarden.com
 ccbill.com
 cdn.shopify.com
@@ -15,7 +16,6 @@ fbl.validity.com
 flexradio.com
 grafana.org
 improvmx.com
-irc.hak5.org
 lumen.com
 marvel-processor.bc0a.com
 mparticle.weather.com
