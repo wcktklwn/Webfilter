@@ -32,5 +32,3 @@
 @@||siteforce.com^
 @@||splunk.com^
 @@||trustwave.com^
-@@||camsoda.com^
-@@||www.camsoda.com^
