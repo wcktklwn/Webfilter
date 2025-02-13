@@ -28,3 +28,5 @@ siteforce.com
 splunk.com
 trustwave.com
 minisforum.com
+fireworkapi1.com
+monorail-edge.shopifysvc.com
