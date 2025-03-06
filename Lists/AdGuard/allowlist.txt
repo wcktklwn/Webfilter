@@ -33,3 +33,5 @@
 @@||splunk.com^
 @@||trustwave.com^
 @@||orcaslicer.net^
+@@||perkspot.com^
+@@||sjv.io^
