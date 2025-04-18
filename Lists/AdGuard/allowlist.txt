@@ -3,6 +3,7 @@
 ! Description: URL's that need to be set to allow for websites to work
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
+@@||allstate.com^
 @@||b.3c.com^
 @@||backblazeb2.com^
 @@||bestbuy.com^
