@@ -29,6 +29,7 @@
 @@||plex.direct^
 @@||plex.tv^
 @@||primaryarms.com^
+@@||s.click.aliexpress.com^
 @@||shop.qrp-labs.com^
 @@||siteforce.com^
 @@||splunk.com^
