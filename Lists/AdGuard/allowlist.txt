@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/wcktklwn/Webfilter
 
 @@||allstate.com^
+@@||api.radar.io^
 @@||b.3c.com^
 @@||backblazeb2.com^
 @@||bestbuy.com^
@@ -12,19 +13,25 @@
 @@||cdn.shopify.com^
 @@||centurylink.com^
 @@||cloudatcost.com^
+@@||cs.zg-api.com^
 @@||dediseedbox.com^
-@@||dellcdn.com^
 @@||dell.com^
 @@||dell.demdex.net^
+@@||dellcdn.com^
 @@||doi.gov^
 @@||doi.net^
 @@||fbl.validity.com^
 @@||flexradio.com^
+@@||gemini.com^
 @@||grafana.org^
 @@||improvmx.com^
 @@||lumen.com^
 @@||marvel-processor.bc0a.com^
 @@||mparticle.weather.com^
+@@||ojrq.net^
+@@||onlyfans.com^
+@@||orcaslicer.net^
+@@||perkspot.com^
 @@||platform-api.sharethis.com^
 @@||plex.direct^
 @@||plex.tv^
@@ -32,13 +39,7 @@
 @@||s.click.aliexpress.com^
 @@||shop.qrp-labs.com^
 @@||siteforce.com^
+@@||sjv.io^
 @@||splunk.com^
 @@||trustwave.com^
-@@||orcaslicer.net^
-@@||perkspot.com^
-@@||sjv.io^
-@@||ojrq.net^
-@@||api.radar.io^
-@@||onlyfans.com^
-@@||gemini.com^
 @@||vip-scdkey.com^
