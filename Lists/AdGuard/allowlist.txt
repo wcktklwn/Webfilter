@@ -13,7 +13,6 @@
 @@||cdn.shopify.com^
 @@||centurylink.com^
 @@||cloudatcost.com^
-@@||cs.zg-api.com^
 @@||dediseedbox.com^
 @@||dell.com^
 @@||dell.demdex.net^
