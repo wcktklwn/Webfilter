@@ -43,3 +43,5 @@
 @@||splunk.com^
 @@||trustwave.com^
 @@||vip-scdkey.com^
+@@||zillow.com^
+@@||zillowstatic.com^
