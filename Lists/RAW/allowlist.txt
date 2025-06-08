@@ -43,3 +43,4 @@ logx.optimizely.com
 nintendo.com
 cs.zg-api.com
 split.io
+cdn.cookielaw.org
