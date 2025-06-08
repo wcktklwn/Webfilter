@@ -48,3 +48,4 @@
 @@||nintendo.com^
 @@||cdn.treasuredata.com^
 @@||cdn.cookielaw.org^
+@@||geolocation.onetrust.com^
