@@ -46,3 +46,9 @@ zg-api.com
 split.io
 cdn.cookielaw.org
 sb.scorecardresearch.com
+www.datadoghq-browser-agent.com
+tzm.px-cloud.net
+cadmus.script.ac
+micro.rubiconproject.com
+securepubads.g.doubleclick.net
+geolocation.onetrust.com
