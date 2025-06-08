@@ -46,5 +46,4 @@
 @@||zillowstatic.com^
 @@||logx.optimizely.com^
 @@||nintendo.com^
-@@||zillowstatic.com^
 @@||cs.zg-api.com^
