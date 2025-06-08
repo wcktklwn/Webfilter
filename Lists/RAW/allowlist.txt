@@ -38,6 +38,7 @@ splunk.com
 trustwave.com
 vip-scdkey.com
 zillow.com
+zillow.net
 zillowstatic.com
 logx.optimizely.com
 nintendo.com
