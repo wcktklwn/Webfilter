@@ -41,6 +41,7 @@ zillow.com
 zillowstatic.com
 logx.optimizely.com
 nintendo.com
-cs.zg-api.com
+zg-api.com
 split.io
 cdn.cookielaw.org
+sb.scorecardresearch.com
