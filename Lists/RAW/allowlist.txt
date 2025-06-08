@@ -41,6 +41,4 @@ zillow.com
 zillowstatic.com
 logx.optimizely.com
 nintendo.com
-cdn.treasuredata.com
-cdn.cookielaw.org
-geolocation.onetrust.com
+zillowstatic.com
