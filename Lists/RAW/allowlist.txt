@@ -42,3 +42,4 @@ zillowstatic.com
 logx.optimizely.com
 nintendo.com
 cdn.treasuredata.com
+cdn.cookielaw.org
