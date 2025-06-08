@@ -39,3 +39,4 @@ trustwave.com
 vip-scdkey.com
 zillow.com
 zillowstatic.com
+logx.optimizely.com
