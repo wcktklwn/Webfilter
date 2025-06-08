@@ -41,3 +41,4 @@ zillow.com
 zillowstatic.com
 logx.optimizely.com
 nintendo.com
+cdn.treasuredata.com
