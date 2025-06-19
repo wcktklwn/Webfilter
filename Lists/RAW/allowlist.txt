@@ -52,3 +52,6 @@ cadmus.script.ac
 micro.rubiconproject.com
 securepubads.g.doubleclick.net
 geolocation.onetrust.com
+allstate.tt.omtrdc.net
+dpm.demdex.net
+nintendo.com
