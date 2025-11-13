@@ -25,6 +25,7 @@
 @@||dpm.demdex.net^
 @@||fbl.validity.com^
 @@||flexradio.com^
+@@||gazellegames.net^
 @@||gemini.com^
 @@||geolocation.onetrust.com^
 @@||grafana.org^
