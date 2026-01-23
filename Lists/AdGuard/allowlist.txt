@@ -46,6 +46,7 @@
 @@||plex.direct^
 @@||plex.tv^
 @@||primaryarms.com^
+@@||qdoba.com^
 @@||sb.scorecardresearch.com^
 @@||s.click.aliexpress.com^
 @@||securepubads.g.doubleclick.net^
