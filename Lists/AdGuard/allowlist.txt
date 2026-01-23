@@ -16,6 +16,7 @@
 @@||cdn.shopify.com^
 @@||centurylink.com^
 @@||cloudatcost.com^
+@@||comcast.net^
 @@||dediseedbox.com^
 @@||dellcdn.com^
 @@||dell.com^
@@ -57,6 +58,7 @@
 @@||tzm.px-cloud.net^
 @@||vip-scdkey.com^
 @@||www.datadoghq-browser-agent.com^
+@@||xfinity.com^
 @@||zg-api.com^
 @@||zillow.com^
 @@||zillow.net^
