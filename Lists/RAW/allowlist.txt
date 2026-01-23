@@ -25,11 +25,15 @@ flexradio.com
 gazellegames.net
 gemini.com
 geolocation.onetrust.com
+githubusercontent.com
 grafana.org
+imdb.com
 improvmx.com
+letterboxd.com
 logx.optimizely.com
 lumen.com
 marvel-processor.bc0a.com
+mdblist.com
 micro.rubiconproject.com
 mparticle.weather.com
 nintendo.com
@@ -51,6 +55,7 @@ siteforce.com
 sjv.io
 split.io
 splunk.com
+thetvdb.com
 trustwave.com
 tzm.px-cloud.net
 vip-scdkey.com
